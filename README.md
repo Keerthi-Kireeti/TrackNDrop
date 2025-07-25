@@ -73,7 +73,7 @@ trackndrop/
 
 ## ✨ Contributors
 
-- 👨‍💻 Developed by [@KK](https://github.com/kiree2005)
+- 👨‍💻 Developed by [@KK]((https://github.com/Keerthi-Kireeti))
 - 🤖 Frontend Styling with help of DRONA (AI Assistant)
 
 ---
